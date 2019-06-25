@@ -1,0 +1,16 @@
+PODS:
+  - HFLGategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - HFLGategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  HFLGategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HFLGategoryKit: f08580703272788a9b9fcdcbb94065b895e13691
+
+PODFILE CHECKSUM: f7a2a6fc7b326cf5fcb5b8162faab30481e8b78f
+
+COCOAPODS: 1.6.1
