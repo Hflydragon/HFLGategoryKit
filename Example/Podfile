@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'HFLGategoryKit_Example' do
+  pod 'HFLGategoryKit', :path => '../'
+
+  target 'HFLGategoryKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
